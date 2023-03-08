@@ -5,3 +5,4 @@ ls -l: displays current directory contents in a long format.
 ls -la: displays current directory contents, including hidden files.
 ls -na: displays current directory contents and hidden files in a long format with user and group IDs displayed numerically.
 mkdir /tmp/my_first_directory: creates a directory named my_first_directory in the /tmp/ directory.
+mv /tmp/betty /tmp/my_first_directory: moves the file betty from /tmp/ to /tmp/my_first_directory.
