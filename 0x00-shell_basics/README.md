@@ -16,3 +16,4 @@ cp -un *.html ../: copies all the HTML files from the current working directory 
 mv [[:upper:]]* /tmp/u: moves all files beginning with an uppercase letter to the directory /tmp/u.
 rm *~: deletes all files in the current working directory that end with the character ~.
 mkdir -p welcome/to/school: creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+ls -mpav \n: lists all the filles and directories of the curent directory, separated by commas, directory names end with a slash, sorted by alpha order, digits come first, and the listing ends with a new line.
