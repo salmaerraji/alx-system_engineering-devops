@@ -7,3 +7,4 @@ ls -na: displays current directory contents and hidden files in a long format wi
 mkdir /tmp/my_first_directory: creates a directory named my_first_directory in the /tmp/ directory.
 mv /tmp/betty /tmp/my_first_directory: moves the file betty from /tmp/ to /tmp/my_first_directory.
 rm /tmp/my_first_directory/betty: deletes the file betty from /tmp/my_first_directory.
+rmdir /tmp/my_first_directory: deletes the directory my_first_directory that is in the /tmp directory.
