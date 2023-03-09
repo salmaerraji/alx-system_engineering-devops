@@ -17,3 +17,5 @@ mv [[:upper:]]* /tmp/u: moves all files beginning with an uppercase letter to th
 rm *~: deletes all files in the current working directory that end with the character ~.
 mkdir -p welcome/to/school: creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 ls -mpav \n: lists all the filles and directories of the curent directory, separated by commas, directory names end with a slash, sorted by alpha order, digits come first, and the listing ends with a new line.
+0 string SCHOOL School data
+!:mime School : lines that contains the magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
